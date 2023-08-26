@@ -1,0 +1,22 @@
+@media screen and (max-width: 590px) {
+	.navright {display:none;}
+	.call-to-action {text-align:center;padding-top:36%;}
+	.social {padding: 6px;}
+	.mobileshow{display:block;}
+}
+
+@media screen and (max-width: 950px) {
+	.grid-3 {grid-template-columns: auto;}
+}
+
+@media screen and (max-width: 1100px) {
+	.hidemobile {display:none;}
+	.nft-tertiary {display:none;}
+	.pfp {display:none;}
+	.pfb {display:none;}
+}
+
+@media screen and (max-width: 1420px) {
+	.nft-secondary {display:none;}
+}
+
